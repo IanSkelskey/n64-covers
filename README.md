@@ -48,12 +48,14 @@ Below are some examples of how to name cover files based on the cartridge code:
 
 Here are some sample label images for reference:
 
-<img src="./labels/NUS-NDYE-USA-1.png" alt="Diddy Kong Racing" width="200" height="auto">
-<img src="./labels/NUS-CZLE-USA.png" alt="Legend of Zelda: Ocarina of Time" width="200" height="auto">
-<img src="./labels/NUS-NKTE-USA.png" alt="Mario Kart 64" width="200" height="auto">
-<img src="./labels/NUS-NFXE-USA-1.png" alt="Star Fox 64" width="200" height="auto">
-<img src="./labels/NUS-NSME-USA.png" alt="Super Mario 64" width="200" height="auto">
-<img src="./labels/NUS-NPFE-USA.png" alt="Pokemon Snap" width="200" height="auto">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="./labels/NUS-NDYE-USA-1.png" alt="Diddy Kong Racing" width="200" height="auto">
+  <img src="./labels/NUS-CZLE-USA.png" alt="Legend of Zelda: Ocarina of Time" width="200" height="auto">
+  <img src="./labels/NUS-NKTE-USA.png" alt="Mario Kart 64" width="200" height="auto">
+  <img src="./labels/NUS-NFXE-USA-1.png" alt="Star Fox 64" width="200" height="auto">
+  <img src="./labels/NUS-NSME-USA.png" alt="Super Mario 64" width="200" height="auto">
+  <img src="./labels/NUS-NPFE-USA.png" alt="Pokemon Snap" width="200" height="auto">
+</div>
 
 ## Contributing
 
