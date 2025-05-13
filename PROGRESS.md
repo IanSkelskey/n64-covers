@@ -4,8 +4,8 @@
 
 | Art Type  | Completed | Total | Completion Percentage                             |
 | --------- | --------- | ----- | ------------------------------------------------- |
-| Label Art | 45        | 335   | <img alt="13%" src="https://progress-bar.xyz/13"> |
-| Box Art   | 1         | 335   | <img alt="0%" src="https://progress-bar.xyz/0">   |
+| Label Art | 52        | 335   | <img alt="16%" src="https://progress-bar.xyz/16"> |
+| Box Art   | 3         | 335   | <img alt="1%" src="https://progress-bar.xyz/1">   |
 
 | Title                                                                       | Version | Product ID       | Box Art | Label Art |
 | --------------------------------------------------------------------------- | ------- | ---------------- | :-----: | :-------: |
@@ -37,12 +37,12 @@
 | Beetle Adventure Racing! (U) [!]                                            |         |                  |    ❌    |     ❌     |
 | Big Mountain 2000 (U) [!]                                                   |         | NUS-NMUE-USA     |    ❌    |     ❌     |
 | Bio F.R.E.A.K.S. (U) [!]                                                    |         | NUS-NBFE-USA     |    ❌    |     ❌     |
-| Blast Corps (U) (V1.0) [!]                                                  | 1.0     | NUS-NBCE-USA     |    ❌    |     ❌     |
+| Blast Corps (U) (V1.0) [!]                                                  | 1.0     | NUS-NBCE-USA     |    ❌    |     ✅     |
 | Blast Corps (U) (V1.1) [!]                                                  | 1.1     | NUS-NBCE-USA     |    ❌    |     ❌     |
 | Blues Brothers 2000 (U) [!]                                                 |         |                  |    ❌    |     ❌     |
 | Body Harvest (U) [!]                                                        |         |                  |    ❌    |     ❌     |
 | Bomberman 64 - The Second Attack! (U) [!]                                   |         |                  |    ❌    |     ❌     |
-| Bomberman 64 (U) [!]                                                        |         |                  |    ❌    |     ❌     |
+| Bomberman 64 (U) [!]                                                        |         | NUS-NBME-USA     |    ❌    |     ✅     |
 | Bomberman Hero (U) [!]                                                      |         | NUS-NBDE-USA     |    ❌    |     ✅     |
 | Bottom of the 9th (U) [!]                                                   |         |                  |    ❌    |     ❌     |
 | Brunswick Circuit Pro Bowling (U) [!]                                       |         | NUS-NOWE-USA     |    ❌    |     ❌     |
@@ -78,7 +78,7 @@
 | Disney's Donald Duck - Goin' Quackers (U) [!]                               |         |                  |    ❌    |     ❌     |
 | Disney's Tarzan (U) [!]                                                     |         | NUS-NTAE-USA     |    ❌    |     ❌     |
 | Donkey Kong 64 - Kiosk (U) [!]                                              |         | DIS-NUS-NDPE-USA |    ❌    |     ✅     |
-| Donkey Kong 64 (U) [!]                                                      |         | NUS-NDOE-USA     |    ❌    |     ✅     |
+| Donkey Kong 64 (U) [!]                                                      |         | NUS-NDOE-USA     |    ✅    |     ✅     |
 | Doom 64 (U) (V1.0) [!]                                                      | 1.0     |                  |    ❌    |     ❌     |
 | Doom 64 (U) (v1.1)                                                          |         |                  |    ❌    |     ❌     |
 | Dr. Mario 64 (U) [!]                                                        |         | NUS-NN6E-USA     |    ❌    |     ❌     |
@@ -309,7 +309,7 @@
 | Turok - Dinosaur Hunter (U) (V1.0) [!]                                      | 1.0     |                  |    ❌    |     ❌     |
 | Turok - Dinosaur Hunter (U) (V1.1)/(v1.2) [!]                               | 1.1     |                  |    ❌    |     ❌     |
 | Turok - Rage Wars (U) [!]                                                   |         | NUS-NRWE-USA     |    ❌    |     ❌     |
-| Turok 2 - Seeds of Evil - Kiosk (U) [!]                                     |         |                  |    ❌    |     ❌     |
+| Turok 2 - Seeds of Evil - Kiosk (U) [!]                                     |         | NUS-NTYE-USA     |    ❌    |     ✅     |
 | Turok 2 - Seeds of Evil (U) [!]                                             |         | NUS-NT2E-ASM     |    ❌    |     ❌     |
 | Turok 3 - Shadow of Oblivion (U) [!]                                        |         | NUS-NTKE-USA     |    ❌    |     ❌     |
 | Twisted Edge Extreme Snowboarding (U) [!]                                   |         | NUS-NSBE-USA     |    ❌    |     ❌     |
@@ -322,7 +322,7 @@
 | War Gods (U) [!]                                                            |         | NUS-NWAE-USA     |    ❌    |     ❌     |
 | Wave Race 64 (U) (V1.0) [!]                                                 | 1.0     |                  |    ❌    |     ❌     |
 | Wave Race 64 (U) (V1.1) [!]                                                 | 1.1     |                  |    ❌    |     ❌     |
-| Wayne Gretzky's 3D Hockey (U) [!]                                           |         |                  |    ❌    |     ❌     |
+| Wayne Gretzky's 3D Hockey (U) [!]                                           |         | NUS-NWGE-USA     |    ✅    |     ✅     |
 | Wayne Gretzky's 3D Hockey (U) (V1.1)                                        | 1.1     |                  |    ❌    |     ❌     |
 | Wayne Gretzky's 3D Hockey '98 (U) [!]                                       |         | P-NUS-NW8E-USA   |    ❌    |     ❌     |
 | WCW Backstage Assault (U) [!]                                               |         | NUS-NWVE-USA     |    ❌    |     ❌     |
@@ -331,11 +331,11 @@
 | WCW vs. nWo - World Tour (U) (V1.0) [!]                                     | 1.0     |                  |    ❌    |     ❌     |
 | WCW vs. nWo - World Tour (U) (V1.1) [!]                                     | 1.1     |                  |    ❌    |     ❌     |
 | WCW-nWo Revenge (U) [!]                                                     |         | NUS-NW2E-USA     |    ❌    |     ❌     |
-| Wetrix (U) [!]                                                              |         |                  |    ❌    |     ❌     |
-| Wheel of Fortune (U) [!]                                                    |         | NUS-NWFE-USA     |    ❌    |     ❌     |
+| Wetrix (U) [!]                                                              |         | NUS-NWTE-USA     |    ❌    |     ✅     |
+| Wheel of Fortune (U) [!]                                                    |         | NUS-NWFE-USA     |    ❌    |     ✅     |
 | WinBack - Covert Operations (U) [!]                                         |         | NUS-NWDE-USA     |    ❌    |     ❌     |
 | Wipeout 64 (U) [!]                                                          |         | NUS-NWPE-USA     |    ❌    |     ❌     |
-| World Cup 98 (U) [!]                                                        |         | NUS-N8WE-USA     |    ❌    |     ❌     |
+| World Cup 98 (U) [!]                                                        |         | NUS-N8WE-USA     |    ❌    |     ✅     |
 | World Driver Championship (U) [!]                                           |         | NUS-NWOE-USA     |    ❌    |     ❌     |
 | World is Not Enough, The (U) [!]                                            |         |                  |    ❌    |     ❌     |
 | Worms - Armageddon (U) [!]                                                  |         | NUS-NADE-USA     |    ❌    |     ✅     |
@@ -351,7 +351,7 @@
 
 | Art Type  | Completed | Total | Completion Percentage                           |
 | --------- | --------- | ----- | ----------------------------------------------- |
-| Label Art | 4         | 262   | <img alt="2%" src="https://progress-bar.xyz/2"> |
+| Label Art | 5         | 262   | <img alt="2%" src="https://progress-bar.xyz/2"> |
 | Box Art   | 0         | 262   | <img alt="0%" src="https://progress-bar.xyz/0"> |
 
 | Title                                                                       | Version | Product ID     | Box Art | Label Art |
@@ -599,7 +599,7 @@
 | Waialae Country Club-True Golf Classics (E) (V1.1) [!]                      | 1.1     |                |    ❌    |     ❌     |
 | War Gods (E) [!]                                                            |         |                |    ❌    |     ❌     |
 | Wave Race 64 (E) [!]                                                        |         |                |    ❌    |     ❌     |
-| Wayne Gretzky's 3D Hockey (E) [!]                                           |         |                |    ❌    |     ❌     |
+| Wayne Gretzky's 3D Hockey (E) [!]                                           |         |                |    ❌    |     ✅     |
 | Wayne Gretzky's 3D Hockey '98 (E) [!]                                       |         |                |    ❌    |     ❌     |
 | WCW Mayhem (E) [!]                                                          |         |                |    ❌    |     ❌     |
 | WCW vs. nWo - World Tour (E) [!]                                            |         |                |    ❌    |     ❌     |
@@ -954,14 +954,15 @@
 
 ## <img src='https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/au.svg' width='30'> Australia
 
-| Art Type  | Completed | Total | Completion Percentage                           |
-| --------- | --------- | ----- | ----------------------------------------------- |
-| Label Art | 1         | 6     | <img alt="17%" src="https://progress-bar.xyz/17"> |
-| Box Art   | 0         | 6     | <img alt="0%" src="https://progress-bar.xyz/0"> |
+| Art Type  | Completed | Total | Completion Percentage                             |
+| --------- | --------- | ----- | ------------------------------------------------- |
+| Label Art | 2         | 7     | <img alt="29%" src="https://progress-bar.xyz/29"> |
+| Box Art   | 0         | 6     | <img alt="0%" src="https://progress-bar.xyz/0">   |
 
 | Title                     | Version | Product ID   | Box Art | Label Art |
 | ------------------------- | ------- | ------------ | :-----: | :-------: |
 | Banjo-Tooie (A) [!]       |         | NUS-NB7U-AUS |    ❌    |     ❌     |
+| Donkey Kong 64 (A) [!]    |         | NUS-NDOP-AUS |    ❌    |     ✅     |
 | HSV Adventure Racing (A)  |         |              |    ❌    |     ❌     |
 | Lylat Wars (A) [!]        |         |              |    ❌    |     ❌     |
 | Pokemon Snap (A) [!]      |         | NUS-NPFU-AUS |    ❌    |     ❌     |

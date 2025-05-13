@@ -16,19 +16,27 @@ A collection of N64 covers for use with emulators. This repository serves as a c
   <img src="./labels/NUS-NMKE-USA.png" alt="Mortal Kombat Trilogy" width="180" height="auto">
 </div>
 
+## Box Examples
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 15px;">
+  <img src="./covers/NUS-NDOE-USA.png" alt="Donkey Kong 64" width="300" height="auto">
+  <img src="./covers/NUS-NTFE-USA.png" alt="Tony Hawk's Pro Skater" width="300" height="auto">
+  <img src="./covers/NUS-NWGE-USA.png" alt="Wayne Gretzky's 3D Hockey" width="300" height="auto">
+</div>
+
 <!-- BEGIN N64 SUMMARY -->
 ## Progress Summary by Region
 
 Region | Label Art | Box Art
 -------|-----------|--------
-<img src='https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/us.svg' width='30'> USA | <img alt="13%" src="https://progress-bar.xyz/13"> | <img alt="0%" src="https://progress-bar.xyz/0">
+<img src='https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/us.svg' width='30'> USA | <img alt="16%" src="https://progress-bar.xyz/16"> | <img alt="0%" src="https://progress-bar.xyz/0">
 <img src='https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/eu.svg' width='30'> Europe | <img alt="2%" src="https://progress-bar.xyz/2"> | <img alt="0%" src="https://progress-bar.xyz/0">
 <img src='https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/jp.svg' width='30'> Japan | <img alt="0%" src="https://progress-bar.xyz/0"> | <img alt="0%" src="https://progress-bar.xyz/0">
 <img src='https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/de.svg' width='30'> Germany | <img alt="0%" src="https://progress-bar.xyz/0"> | <img alt="0%" src="https://progress-bar.xyz/0">
 <img src='https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/fr.svg' width='30'> France | <img alt="5%" src="https://progress-bar.xyz/5"> | <img alt="0%" src="https://progress-bar.xyz/0">
 <img src='https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/it.svg' width='30'> Italy | <img alt="0%" src="https://progress-bar.xyz/0"> | <img alt="0%" src="https://progress-bar.xyz/0">
 <img src='https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/es.svg' width='30'> Spain | <img alt="0%" src="https://progress-bar.xyz/0"> | <img alt="0%" src="https://progress-bar.xyz/0">
-<img src='https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/au.svg' width='30'> Australia | <img alt="17%" src="https://progress-bar.xyz/17"> | <img alt="0%" src="https://progress-bar.xyz/0">
+<img src='https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/au.svg' width='30'> Australia | <img alt="29%" src="https://progress-bar.xyz/29"> | <img alt="0%" src="https://progress-bar.xyz/0">
 Unknown Region | <img alt="0%" src="https://progress-bar.xyz/0"> | <img alt="0%" src="https://progress-bar.xyz/0">
 
 <!-- END N64 SUMMARY -->
