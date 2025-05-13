@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: N64-Covers Documentation
+    url: https://github.com/IanSkelskey/n64-covers#readme
+    about: Check the README for information on contributing covers
+  - name: Project64-QT Repository
+    url: https://github.com/IanSkelskey/p64-qt
+    about: For issues related to the emulator integration, please visit the P64-QT repository
