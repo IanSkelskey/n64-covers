@@ -19,7 +19,7 @@ Region | Label Art | Box Art
 <img src='https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/it.svg' width='30'> Italy | <img alt="0%" src="https://progress-bar.xyz/0"> | <img alt="0%" src="https://progress-bar.xyz/0">
 <img src='https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/es.svg' width='30'> Spain | <img alt="0%" src="https://progress-bar.xyz/0"> | <img alt="0%" src="https://progress-bar.xyz/0">
 <img src='https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/au.svg' width='30'> Australia | <img alt="0%" src="https://progress-bar.xyz/0"> | <img alt="0%" src="https://progress-bar.xyz/0">
-Unknown Region | <img alt="7%" src="https://progress-bar.xyz/0"> | <img alt="7%" src="https://progress-bar.xyz/0">
+Unknown Region | <img alt="0%" src="https://progress-bar.xyz/0"> | <img alt="0%" src="https://progress-bar.xyz/0">
 
 <!-- END N64 SUMMARY -->
 
