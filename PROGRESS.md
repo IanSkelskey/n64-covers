@@ -971,12 +971,11 @@ Box Art | 0 | 5 | <img alt="0%" src="https://progress-bar.xyz/0">
 
 Art Type | Completed | Total | Completion Percentage
 ---------|-----------|-------|-----------------------
-Label Art | 1 | 15 | <img alt="7%" src="https://progress-bar.xyz/7">
-Box Art | 1 | 15 | <img alt="7%" src="https://progress-bar.xyz/7">
+Label Art | 0 | 14 | <img alt="7%" src="https://progress-bar.xyz/0">
+Box Art | 0 | 14 | <img alt="7%" src="https://progress-bar.xyz/0">
 
 | Title | Version | Product ID | Box Art | Label Art |
 |-------|---------|------------|:-------:|:----------:|
-|  |  |  | ✅ | ✅ |
 | 1080 Snowboarding (JU) [!] |  | NUS-NTEJ-JPN | ❌ | ❌ |
 | Dexanoid R1 by Protest Design (PD) [!] |  |  | ❌ | ❌ |
 | GameShark V3.3 (Unl) |  |  | ❌ | ❌ |
