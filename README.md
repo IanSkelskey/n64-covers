@@ -2,9 +2,19 @@
 
 A collection of N64 covers for use with emulators. This repository serves as a centralized database of N64 game cover art specifically designed to work with the new QT-based version of Project64, [P64-QT](https://github.com/IanSkelskey/p64-qt).
 
-## Default Game Label
+## Label Examples
 
-<img src="default-label.png" alt="Default Label" width="250" height="auto">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 15px;">
+  <img src="default-label.png" alt="Default Label" width="180" height="auto">
+  <img src="./labels/NUS-NDYE-USA-1.png" alt="Diddy Kong Racing" width="180" height="auto">
+  <img src="./labels/NUS-CZLE-USA.png" alt="Legend of Zelda: Ocarina of Time" width="180" height="auto">
+  <img src="./labels/NUS-NKTE-USA.png" alt="Mario Kart 64" width="180" height="auto">
+  <img src="./labels/NUS-NFXE-USA-1.png" alt="Star Fox 64" width="180" height="auto">
+  <img src="./labels/NUS-NSME-USA.png" alt="Super Mario 64" width="180" height="auto">
+  <img src="./labels/NUS-NPFE-USA.png" alt="Pokemon Snap" width="180" height="auto">
+  <img src="./labels/NUS-NMXE-USA.png" alt="Excitebike 64" width="180" height="auto">
+  <img src="./labels/NUS-NMKE-USA.png" alt="Mortal Kombat Trilogy" width="180" height="auto">
+</div>
 
 <!-- BEGIN N64 SUMMARY -->
 ## Progress Summary by Region
@@ -61,19 +71,6 @@ Below are some examples of how to name cover files based on the cartridge code:
 | Star Fox 64                      | NUS-NFXE-USA-1 | NUS-NFXE-USA-1.png |
 | Super Mario 64                   | NUS-NSME-USA   | NUS-NSME-USA.png   |
 | Pokemon Snap                     | NUS-NPFE-USA   | NUS-NPFE-USA.png   |
-
-### Sample Label Art
-
-Here are some sample label images for reference:
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="./labels/NUS-NDYE-USA-1.png" alt="Diddy Kong Racing" width="200" height="auto">
-  <img src="./labels/NUS-CZLE-USA.png" alt="Legend of Zelda: Ocarina of Time" width="200" height="auto">
-  <img src="./labels/NUS-NKTE-USA.png" alt="Mario Kart 64" width="200" height="auto">
-  <img src="./labels/NUS-NFXE-USA-1.png" alt="Star Fox 64" width="200" height="auto">
-  <img src="./labels/NUS-NSME-USA.png" alt="Super Mario 64" width="200" height="auto">
-  <img src="./labels/NUS-NPFE-USA.png" alt="Pokemon Snap" width="200" height="auto">
-</div>
 
 ## Contributing
 

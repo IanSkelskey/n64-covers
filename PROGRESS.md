@@ -4,7 +4,7 @@
 
 | Art Type  | Completed | Total | Completion Percentage                             |
 | --------- | --------- | ----- | ------------------------------------------------- |
-| Label Art | 42        | 335   | <img alt="13%" src="https://progress-bar.xyz/13"> |
+| Label Art | 45        | 335   | <img alt="13%" src="https://progress-bar.xyz/13"> |
 | Box Art   | 1         | 335   | <img alt="0%" src="https://progress-bar.xyz/0">   |
 
 | Title                                                                       | Version | Product ID       | Box Art | Label Art |
@@ -91,7 +91,7 @@
 | Elmo's Letter Adventure (U) [!]                                             |         | NUS-NELE-USA     |    ❌    |     ❌     |
 | Elmo's Number Journey (U) [!]                                               |         | NUS-NENE-USA     |    ❌    |     ❌     |
 | Excitebike 64 - Kiosk (U) [!]                                               |         |                  |    ❌    |     ❌     |
-| Excitebike 64 (U) [!]                                                       |         |                  |    ❌    |     ❌     |
+| Excitebike 64 (U) [!]                                                       |         | NUS-NMXE-USA     |    ❌    |     ✅     |
 | Extreme-G (U) [!]                                                           |         |                  |    ❌    |     ❌     |
 | Extreme-G XG2 (U) [!]                                                       |         |                  |    ❌    |     ❌     |
 | F-1 Pole Position 64 (U) [!]                                                |         | NUS-NHGE-USA     |    ❌    |     ❌     |
@@ -229,7 +229,7 @@
 | Perfect Dark (U) (V1.1) [!]                                                 | 1.1     |                  |    ❌    |     ❌     |
 | PGA European Tour (U) [!]                                                   |         | NUS-NEAE-USA     |    ❌    |     ❌     |
 | Pilotwings 64 (U) [!]                                                       |         |                  |    ❌    |     ❌     |
-| Pokemon Puzzle League (U) [!]                                               |         |                  |    ❌    |     ❌     |
+| Pokemon Puzzle League (U) [!]                                               |         | NUS-NPNE-USA     |    ❌    |     ✅     |
 | Pokemon Snap (U) [!]                                                        |         | NUS-NPFE-USA     |    ❌    |     ✅     |
 | Pokemon Snap Station (U) [!]                                                |         |                  |    ❌    |     ❌     |
 | Pokemon Stadium - Kiosk (U) (V1.1) [!]                                      | 1.1     | DIS-NUS-NPOE-USA |    ❌    |     ✅     |
