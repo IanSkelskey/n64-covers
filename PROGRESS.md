@@ -4,15 +4,15 @@
 
 | Art Type  | Completed | Total | Completion Percentage                             |
 | --------- | --------- | ----- | ------------------------------------------------- |
-| Label Art | 63        | 335   | <img alt="19%" src="https://progress-bar.xyz/19"> |
+| Label Art | 66        | 335   | <img alt="20%" src="https://progress-bar.xyz/20"> |
 | Box Art   | 3         | 335   | <img alt="1%" src="https://progress-bar.xyz/1">   |
 
 | Title                                                                       | Version | Product ID       | Box Art | Label Art |
 | --------------------------------------------------------------------------- | ------- | ---------------- | :-----: | :-------: |
-| 007 - The World is Not Enough (U)                                           |         | NUS-NO7E-MSA     |    ❌    |     ❌     |
-| A Bug's Life (U) [!]                                                        |         | NUS-NBYE-USA     |    ❌    |     ❌     |
+| 007 - The World is Not Enough (U)                                           |         | NUS-NO7E-USA     |    ❌    |     ✅     |
+| A Bug's Life (U) [!]                                                        |         | NUS-NBYE-USA     |    ❌    |     ✅     |
 | Aerofighter's Assault (U) [!]                                               |         | NUS-NERE-USA     |    ❌    |     ✅     |
-| AeroGauge (U) [!]                                                           |         | NUS-NAGE-USA     |    ❌    |     ❌     |
+| AeroGauge (U) [!]                                                           |         | NUS-NAGE-USA     |    ❌    |     ✅     |
 | Aidyn Chronicles - The First Mage (U) [!] (V1.0)                            | 1.0     | NUS-NAYE-USA     |    ❌    |     ❌     |
 | Aidyn Chronicles - The First Mage (U) [!] (V1.1)                            | 1.1     |                  |    ❌    |     ❌     |
 | All Star Tennis '99 (U) [!]                                                 |         | NUS-NTNE-USA     |    ❌    |     ❌     |
@@ -351,17 +351,16 @@
 
 | Art Type  | Completed | Total | Completion Percentage                           |
 | --------- | --------- | ----- | ----------------------------------------------- |
-| Label Art | 5         | 262   | <img alt="2%" src="https://progress-bar.xyz/2"> |
-| Box Art   | 0         | 262   | <img alt="0%" src="https://progress-bar.xyz/0"> |
+| Label Art | 6         | 261   | <img alt="2%" src="https://progress-bar.xyz/2"> |
+| Box Art   | 0         | 261   | <img alt="0%" src="https://progress-bar.xyz/0"> |
 
 | Title                                                                       | Version | Product ID     | Box Art | Label Art |
 | --------------------------------------------------------------------------- | ------- | -------------- | :-----: | :-------: |
-| 007 - The World is Not Enough (E) (M3)                                      |         | NUS-NO7P-UKV   |    ❌    |     ❌     |
+| 007 - The World is Not Enough (E) (M3)                                      |         | NUS-NO7P-UKV   |    ❌    |     ✅     |
 | 1080 Snowboarding (E) [!]                                                   |         | NUS-NTEP-EUR   |    ❌    |     ❌     |
 | 40 Winks (E) (M3) (Beta)                                                    |         |                |    ❌    |     ❌     |
 | A Bug's Life (E) [!]                                                        |         | NUS-NBYP       |    ❌    |     ❌     |
 | Aerofighter's Assault (E) [!]                                               |         | NUS-NSAP       |    ❌    |     ❌     |
-| AeroGauge (E) [!]                                                           |         | NUS-NAGP-AUS   |    ❌    |     ❌     |
 | Aidyn Chronicles - The First Mage (E) [!]                                   |         | NUS-NAYP-EUR   |    ❌    |     ❌     |
 | Airboarder 64 (E) [!]                                                       |         | NUS-NABP-AUS   |    ❌    |     ❌     |
 | All Star Tennis '99 (E) [!]                                                 |         | NUS-NTNP-EUR   |    ❌    |     ❌     |
@@ -956,11 +955,12 @@
 
 | Art Type  | Completed | Total | Completion Percentage                             |
 | --------- | --------- | ----- | ------------------------------------------------- |
-| Label Art | 2         | 7     | <img alt="29%" src="https://progress-bar.xyz/29"> |
-| Box Art   | 0         | 6     | <img alt="0%" src="https://progress-bar.xyz/0">   |
+| Label Art | 3         | 8     | <img alt="38%" src="https://progress-bar.xyz/38"> |
+| Box Art   | 0         | 8     | <img alt="0%" src="https://progress-bar.xyz/0">   |
 
 | Title                     | Version | Product ID   | Box Art | Label Art |
 | ------------------------- | ------- | ------------ | :-----: | :-------: |
+| AeroGauge (E) [!]         |         | NUS-NAGP-AUS |    ❌    |     ✅     |
 | Banjo-Tooie (A) [!]       |         | NUS-NB7U-AUS |    ❌    |     ❌     |
 | Donkey Kong 64 (A) [!]    |         | NUS-NDOP-AUS |    ❌    |     ✅     |
 | HSV Adventure Racing (A)  |         |              |    ❌    |     ❌     |
