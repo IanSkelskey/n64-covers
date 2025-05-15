@@ -2,19 +2,23 @@
 
 
 
+
+
+
+
 ## <img src='https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/us.svg' width='30'> USA
 
 | Art Type  | Completed | Total | Completion Percentage |
 | --------- | --------- | ----- | --------------------- |
-| Label Art | 69        | 339   | <img alt="20%" src="https://progress-bar.xyz/20"> |
-| Box Art   | 3         | 339   | <img alt="0%" src="https://progress-bar.xyz/0">   |
+| Label Art | 71        | 339   | <img alt="20%" src="https://progress-bar.xyz/20"> |
+| Box Art   | 67         | 339   | <img alt="19%" src="https://progress-bar.xyz/19">   |
 
 | Title                                                                       | Version | Product ID       | Box Art | Label Art |
 | --------------------------------------------------------------------------- | ------- | ---------------- | :-----: | :-------: |
 | 007 - The World is Not Enough (U)                                           |         | NUS-NO7E-USA     |    ❌    |    ✅     |
 | A Bug's Life (U) [!]                                                        |         | NUS-NBYE-USA     |    ❌    |    ✅     |
-| Aerofighter's Assault (U) [!]                                               |         | NUS-NERE-USA     |    ❌    |    ✅     |
-| AeroGauge (U) [!]                                                           |         | NUS-NAGE-USA     |    ❌    |    ✅     |
+| Aerofighter's Assault (U) [!]                                               |         | NUS-NERE-USA     |    ✅    |    ✅     |
+| AeroGauge (U) [!]                                                           |         | NUS-NAGE-USA     |    ✅    |    ✅     |
 | Aidyn Chronicles - The First Mage (U) [!] (V1.0)                            | 1.0     | NUS-NAYE-USA     |    ❌    |    ❌     |
 | Aidyn Chronicles - The First Mage (U) [!] (V1.1)                            | 1.1     |                  |    ❌    |    ❌     |
 | All Star Tennis '99 (U) [!]                                                 |         | NUS-NTNE-USA     |    ❌    |    ❌     |
@@ -32,38 +36,38 @@
 | Banjo-Tooie (U) [!]                                                         |         | NUS-NB7E-USA     |    ❌    |    ✅     |
 | Bassmasters 2000 (U) [!]                                                    |         | NUS-NB4E-USA     |    ❌    |    ❌     |
 | Batman Beyond - Return of the Joker (U) [!]                                 |         | NUS-NJQE-USA     |    ❌    |    ❌     |
-| BattleTanx - Global Assault (U) [!]                                         |         | NUS-NBAE-USA     |    ❌    |    ❌     |
+| BattleTanx - Global Assault (U) [!]                                         |         | NUS-NBAE-USA     |    ✅    |    ❌     |
 | BattleTanx (U) [!]                                                          |         | NUS-NBXE-USA     |    ❌    |    ❌     |
 | Battlezone - Rise of the Black Dogs (U) [!]                                 |         | NUS-NZOE-USA     |    ❌    |    ❌     |
 | Beast Wars Transmetal (U) [!]                                               |         |                  |    ❌    |    ❌     |
-| Beetle Adventure Racing! (U) [!]                                            |         |                  |    ❌    |    ❌     |
-| Big Mountain 2000 (U) [!]                                                   |         | NUS-NMUE-USA     |    ❌    |    ❌     |
-| Bio F.R.E.A.K.S. (U) [!]                                                    |         | NUS-NBFE-USA     |    ❌    |    ❌     |
-| Blast Corps (U) (V1.0) [!]                                                  | 1.0     | NUS-NBCE-USA     |    ❌    |    ✅     |
-| Blast Corps (U) (V1.1) [!]                                                  | 1.1     | NUS-NBCE-USA     |    ❌    |    ✅     |
-| Blues Brothers 2000 (U) [!]                                                 |         |                  |    ❌    |    ❌     |
-| Body Harvest (U) [!]                                                        |         |                  |    ❌    |    ❌     |
-| Bomberman 64 - The Second Attack! (U) [!]                                   |         |                  |    ❌    |    ❌     |
+| Beetle Adventure Racing! (U) [!]                                            |         | NUS-NNSE-USA     |    ✅    |    ❌     |
+| Big Mountain 2000 (U) [!]                                                   |         | NUS-NMUE-USA     |    ✅    |    ❌     |
+| Bio F.R.E.A.K.S. (U) [!]                                                    |         | NUS-NBFE-USA     |    ✅    |    ✅     |
+| Blast Corps (U) (V1.0) [!]                                                  | 1.0     | NUS-NBCE-USA     |    ✅    |    ✅     |
+| Blast Corps (U) (V1.1) [!]                                                  | 1.1     | NUS-NBCE-USA     |    ✅    |    ✅     |
+| Blues Brothers 2000 (U) [!]                                                 |         | NUS-NBPE-USA     |    ✅    |    ❌     |
+| Body Harvest (U) [!]                                                        |         | NUS-NBHE-USA     |    ✅    |    ❌     |
+| Bomberman 64 - The Second Attack! (U) [!]                                   |         | NUS-NOBE-USA     |    ✅    |    ❌     |
 | Bomberman 64 (U) [!]                                                        |         | NUS-NBME-USA     |    ❌    |    ✅     |
-| Bomberman Hero (U) [!]                                                      |         | NUS-NBDE-USA     |    ❌    |    ✅     |
-| Bottom of the 9th (U) [!]                                                   |         |                  |    ❌    |    ❌     |
-| Brunswick Circuit Pro Bowling (U) [!]                                       |         | NUS-NOWE-USA     |    ❌    |    ❌     |
-| Buck Bumble (U) [!]                                                         |         |                  |    ❌    |    ❌     |
+| Bomberman Hero (U) [!]                                                      |         | NUS-NBDE-USA     |    ✅    |    ✅     |
+| Bottom of the 9th (U) [!]                                                   |         | NUS-NBOE-USA     |    ✅    |    ❌     |
+| Brunswick Circuit Pro Bowling (U) [!]                                       |         | NUS-NOWE-USA     |    ✅    |    ❌     |
+| Buck Bumble (U) [!]                                                         |         | NUS-NBLE-USA     |    ✅    |    ❌     |
 | Bust-A-Move 2 - Arcade Edition (U) [!]                                      |         |                  |    ❌    |    ❌     |
 | Bust-A-Move '99 (U) [!]                                                     |         | NUS-NB3E-USA     |    ❌    |    ❌     |
-| California Speed (U) [!]                                                    |         | NUS-NCLE-USA     |    ❌    |    ❌     |
-| Carmageddon 64 (U) [!]                                                      |         |                  |    ❌    |    ❌     |
+| California Speed (U) [!]                                                    |         | NUS-NCLE-USA     |    ✅    |    ❌     |
+| Carmageddon 64 (U) [!]                                                      |         | NUS-NCDE-USA     |    ✅    |    ❌     |
 | Castlevania - Legacy of Darkness (U) [!]                                    |         |                  |    ❌    |    ❌     |
-| Castlevania (U) (V1.0) [!]                                                  | 1.0     | NUS-ND3E-ASM     |    ❌    |    ❌     |
+| Castlevania (U) (V1.0) [!]                                                  | 1.0     | NUS-ND3E-USA     |    ✅    |    ❌     |
 | Castlevania (U) (V1.2) [!]                                                  | 1.2     | NUS-ND3E-ASM     |    ❌    |    ❌     |
-| Chameleon Twist (U) [!]                                                     |         |                  |    ❌    |    ❌     |
+| Chameleon Twist (U) [!]                                                     |         | NUS-NCTE-USA     |    ✅    |    ❌     |
 | Chameleon Twist 2 (U) [!]                                                   |         |                  |    ❌    |    ❌     |
 | Charlie Blast's Territory (U) [!]                                           |         |                  |    ❌    |    ❌     |
-| Chopper Attack (U) [!]                                                      |         |                  |    ❌    |    ❌     |
+| Chopper Attack (U) [!]                                                      |         | NUS-NCHE-USA     |    ✅    |    ❌     |
 | Clay Fighter - Sculptor's Cut (U) [!]                                       |         | NUS-NC2E-USA     |    ❌    |    ❌     |
 | Clay Fighter 63 1-3 (U) (beta)                                              |         |                  |    ❌    |    ❌     |
 | Clay Fighter 63 1-3 (U) [!]                                                 |         |                  |    ❌    |    ❌     |
-| Command & Conquer (U) [!]                                                   |         |                  |    ❌    |    ❌     |
+| Command & Conquer (U) [!]                                                   |         | NUS-NCCE-USA     |    ✅    |    ❌     |
 | Conker's Bad Fur Day (U) [!]                                                |         | NUS-NFUE-USA     |    ❌    |    ✅     |
 | Cruis'n Exotica (U) [!]                                                     |         | NUS-NXOE-USA     |    ❌    |    ❌     |
 | Cruis'n USA (U) (V1.0) [!]                                                  | 1.0     | NUS-NCUE-USA     |    ❌    |    ✅     |
@@ -84,45 +88,45 @@
 | Doom 64 (U) (V1.0) [!]                                                      | 1.0     |                  |    ❌    |    ❌     |
 | Doom 64 (U) (v1.1)                                                          |         |                  |    ❌    |    ❌     |
 | Dr. Mario 64 (U) [!]                                                        |         | NUS-NN6E-USA     |    ❌    |    ❌     |
-| Dual Heroes (U) [!]                                                         |         |                  |    ❌    |    ❌     |
+| Dual Heroes (U) [!]                                                         |         | NUS-NDHE-USA     |    ✅    |    ❌     |
 | Duck Dodgers Starring Daffy Duck (U) [!]                                    |         |                  |    ❌    |    ❌     |
 | Duke Nukem - ZER0 H0UR (U) [!]                                              |         |                  |    ❌    |    ❌     |
-| Duke Nukem 64 (U) [!]                                                       |         | NUS-NDNE-USA     |    ❌    |    ✅     |
-| Earthworm Jim 3D (U) [!]                                                    |         |                  |    ❌    |    ❌     |
-| ECW Hardcore Revolution (U) [!]                                             |         |                  |    ❌    |    ❌     |
+| Duke Nukem 64 (U) [!]                                                       |         | NUS-NDNE-USA     |    ✅    |    ✅     |
+| Earthworm Jim 3D (U) [!]                                                    |         | NUS-NJME-USA     |    ✅    |    ❌     |
+| ECW Hardcore Revolution (U) [!]                                             |         | NUS-NWIE-USA     |    ✅    |    ❌     |
 | Elmo's Letter Adventure (U) [!]                                             |         | NUS-NELE-USA     |    ❌    |    ❌     |
 | Elmo's Number Journey (U) [!]                                               |         | NUS-NENE-USA     |    ❌    |    ❌     |
 | Excitebike 64 - Kiosk (U) [!]                                               |         | DIS-NUS-NNXE-USA |    ❌    |    ✅     |
-| Excitebike 64 (U) [!]                                                       |         | NUS-NMXE-USA     |    ❌    |    ✅     |
+| Excitebike 64 (U) [!]                                                       |         | NUS-NMXE-USA     |    ✅    |    ✅     |
 | Extreme-G (U) [!]                                                           |         |                  |    ❌    |    ❌     |
 | Extreme-G XG2 (U) [!]                                                       |         |                  |    ❌    |    ❌     |
 | F-1 Pole Position 64 (U) [!]                                                |         | NUS-NHGE-USA     |    ❌    |    ❌     |
 | F-1 World Grand Prix (U) [!]                                                |         |                  |    ❌    |    ❌     |
 | FIFA - Road to World Cup 98 (U) [!]                                         |         |                  |    ❌    |    ❌     |
 | FIFA 99 (U) [!]                                                             |         |                  |    ❌    |    ❌     |
-| FIFA Soccer 64 (U) [!]                                                      |         | NUS-N7IE-USA     |    ❌    |    ❌     |
+| FIFA Soccer 64 (U) [!]                                                      |         | NUS-N7IE-USA     |    ✅    |    ✅     |
 | Fighter's Destiny (U) [!]                                                   |         |                  |    ❌    |    ❌     |
 | Fighter's Destiny 2 (U) [!]                                                 |         |                  |    ❌    |    ❌     |
-| Fighting Force 64 (U) [!]                                                   |         |                  |    ❌    |    ❌     |
+| Fighting Force 64 (U) [!]                                                   |         | NUS-NFFE-USA     |    ✅    |    ❌     |
 | Flying Dragon (U) [!]                                                       |         |                  |    ❌    |    ❌     |
 | Forsaken 64 (U) [!]                                                         |         | NUS-NFOE-USA     |    ❌    |    ❌     |
 | Fox Sports College Hoops '99 (U) [!]                                        |         | NUS-NF9E-USA     |    ❌    |    ❌     |
 | Frogger 2 (U) (Unreleased Alpha)                                            |         |                  |    ❌    |    ❌     |
 | F-Zero X (U) [!]                                                            |         |                  |    ❌    |    ❌     |
-| Gauntlet Legends (U) [!]                                                    |         | NUS-NGXE-USA     |    ❌    |    ✅     |
+| Gauntlet Legends (U) [!]                                                    |         | NUS-NGXE-USA     |    ✅    |    ✅     |
 | Gex 3 - Deep Cover Gecko (U) [!]                                            |         |                  |    ❌    |    ❌     |
 | Gex 64 - Enter the Gecko (U) [!]                                            |         |                  |    ❌    |    ❌     |
-| Glover (U) [!]                                                              |         |                  |    ❌    |    ❌     |
+| Glover (U) [!]                                                              |         | NUS-NGVE-USA     |    ✅    |    ❌     |
 | Goemon's Great Adventure (U) [!]                                            |         | NUS-NGME-USA     |    ❌    |    ❌     |
-| Golden Nugget 64 (U) [!]                                                    |         | NUS-NGNE-USA     |    ❌    |    ❌     |
-| GoldenEye 007 (U) [!]                                                       |         | NUS-NGEE-USA     |    ❌    |    ✅     |
+| Golden Nugget 64 (U) [!]                                                    |         | NUS-NGNE-USA     |    ✅    |    ❌     |
+| GoldenEye 007 (U) [!]                                                       |         | NUS-NGEE-USA     |    ✅    |    ✅     |
 | GT 64 Championship Edition (U) [!]                                          |         | NUS-NGCE-USA     |    ❌    |    ✅     |
-| Harvest Moon 64 (U) [!]                                                     |         | NUS-NYWE-USA     |    ❌    |    ✅     |
+| Harvest Moon 64 (U) [!]                                                     |         | NUS-NYWE-USA     |    ✅    |    ✅     |
 | Hercules - The Legendary Journeys (U) [!]                                   |         |                  |    ❌    |    ❌     |
-| Hexen (U) [!]                                                               |         |                  |    ❌    |    ❌     |
-| Hey You, Pikachu! (U) [!]                                                   |         | NUS-NPGE-USA     |    ❌    |    ❌     |
-| Hot Wheels Turbo Racing (U) [!]                                             |         | NUS-NHWE-USA     |    ❌    |    ❌     |
-| Hybrid Heaven (U) [!]                                                       |         |                  |    ❌    |    ❌     |
+| Hexen (U) [!]                                                               |         | NUS-NHXE-USA     |    ✅    |    ❌     |
+| Hey You, Pikachu! (U) [!]                                                   |         | NUS-NPGE-USA     |    ✅    |    ❌     |
+| Hot Wheels Turbo Racing (U) [!]                                             |         | NUS-NHWE-USA     |    ✅    |    ❌     |
+| Hybrid Heaven (U) [!]                                                       |         | NUS-NHVE-USA     |    ✅    |    ❌     |
 | Hydro Thunder (U) [!]                                                       |         |                  |    ❌    |    ❌     |
 | Iggy's Reckin' Balls (U) [!]                                                |         |                  |    ❌    |    ❌     |
 | Indiana Jones and the Infernal Machine (U) [!]                              |         |                  |    ❌    |    ❌     |
@@ -132,19 +136,19 @@
 | International Superstar Soccer 64 (U) [!]                                   |         | NUS-NJPE-ASM     |    ❌    |    ❌     |
 | International Superstar Soccer '98 (U) [!]                                  |         | NUS-NWSE-ASM     |    ❌    |    ❌     |
 | International Track and Field 2000 (U) [!]                                  |         |                  |    ❌    |    ❌     |
-| Jeopardy! (U) [!]                                                           |         | NUS-NJOE-USA     |    ❌    |    ❌     |
+| Jeopardy! (U) [!]                                                           |         | NUS-NJOE-USA     |    ✅    |    ❌     |
 | Jeremy McGrath Supercross 2000 (U) [!]                                      |         |                  |    ❌    |    ❌     |
 | Jet Force Gemini - Kiosk (U) [!]                                            |         |                  |    ❌    |    ❌     |
 | Jet Force Gemini (U) [!]                                                    |         |                  |    ❌    |    ❌     |
 | Jet Force Gemini (U) [f1]                                                   |         |                  |    ❌    |    ❌     |
 | John Romero's Daikatana (U) [!]                                             |         |                  |    ❌    |    ❌     |
 | Ken Griffey Jr.'s Slugfest (U) [!]                                          |         | NUS-NKJE-USA     |    ❌    |    ❌     |
-| Killer Instinct Gold (U) (V1.0) [!]                                         | 1.0     |                  |    ❌    |    ❌     |
+| Killer Instinct Gold (U) (V1.0) [!]                                         | 1.0     | NUS-NKIE-USA     |    ✅    |    ❌     |
 | Killer Instinct Gold (U) (V1.1) [!]                                         | 1.1     |                  |    ❌    |    ❌     |
 | Killer Instinct Gold (U) (V1.2) [!]                                         | 1.2     |                  |    ❌    |    ❌     |
 | Kirby 64 - The Crystal Shards (U) [!]                                       |         | NUS-NK4E-USA     |    ❌    |    ✅     |
 | Knife Edge - Nose Gunner (U) [!]                                            |         |                  |    ❌    |    ❌     |
-| Knockout Kings 2000 (U) [!]                                                 |         |                  |    ❌    |    ❌     |
+| Knockout Kings 2000 (U) [!]                                                 |         | NUS-NKKE-USA     |    ✅    |    ❌     |
 | Kobe Bryant's NBA Courtside (U) [!]                                         |         |                  |    ❌    |    ❌     |
 | Legend of Zelda 2, The - Majora's Mask (U) [!]                              |         | NUS-NZSE-USA     |    ❌    |    ✅     |
 | Legend of Zelda, The - Ocarina of Time (U) (V1.0) [!]                       | 1.0     | NUS-CZLE-USA     |    ❌    |    ✅     |
@@ -156,14 +160,14 @@
 | Legend of Zelda, The - Majora's Mask (U) (GC Version)                       |         |                  |    ❌    |    ❌     |
 | Legend of Zelda, The - Ocarina of Time - Master Quest (U) (Debug Rom)       |         |                  |    ❌    |    ❌     |
 | Legend of Zelda, The - Majora's Mask (U) (Demo)                             |         |                  |    ❌    |    ❌     |
-| LEGO Racers (U) [!]                                                         |         |                  |    ❌    |    ❌     |
+| LEGO Racers (U) [!]                                                         |         | NUS-NLGE-USA     |    ✅    |    ❌     |
 | Lode Runner 3-D (U) [!]                                                     |         |                  |    ❌    |    ❌     |
 | Mace - The Dark Age (U) [!]                                                 |         |                  |    ❌    |    ❌     |
 | Madden 2000 (U) [!]                                                         |         |                  |    ❌    |    ❌     |
-| Madden Football 64 (U) [!]                                                  |         |                  |    ❌    |    ❌     |
-| Madden NFL 2001 (U) [!]                                                     |         | NUS-NFLE-USA     |    ❌    |    ❌     |
-| Madden NFL 2002 (U) [!]                                                     |         | NUS-N2ME-USA     |    ❌    |    ❌     |
-| Madden NFL 99 (U) [!]                                                       |         | NUS-N9ME-USA     |    ❌    |    ❌     |
+| Madden Football 64 (U) [!]                                                  |         | NUS-N8ME-USA     |    ✅    |    ❌     |
+| Madden NFL 2001 (U) [!]                                                     |         | NUS-NFLE-USA     |    ✅    |    ❌     |
+| Madden NFL 2002 (U) [!]                                                     |         | NUS-N2ME-USA     |    ✅    |    ❌     |
+| Madden NFL 99 (U) [!]                                                       |         | NUS-N9ME-USA     |    ✅    |    ❌     |
 | Magical Tetris Challenge (U) [!]                                            |         |                  |    ❌    |    ❌     |
 | Major League Baseball Featuring Ken Griffey Jr. (U) [!]                     |         | NUS-NKGE-USA     |    ❌    |    ❌     |
 | Mario Golf (U) [!]                                                          |         |                  |    ❌    |    ❌     |
@@ -182,8 +186,8 @@
 | Mischief Makers (U) [!]                                                     |         |                  |    ❌    |    ❌     |
 | Mission Impossible (U) [!]                                                  |         |                  |    ❌    |    ❌     |
 | Monaco Grand Prix (U) [!]                                                   |         | NUS-NMGE-USA     |    ❌    |    ❌     |
-| Monopoly (U) [!]                                                            |         | NUS-NMOE-USA     |    ❌    |    ❌     |
-| Monster Truck Madness 64 (U) [!]                                            |         |                  |    ❌    |    ❌     |
+| Monopoly (U) [!]                                                            |         | NUS-NMOE-USA     |    ✅    |    ❌     |
+| Monster Truck Madness 64 (U) [!]                                            |         | NUS-NM3E-USA     |    ✅    |    ❌     |
 | Mortal Kombat 4 (U) [!]                                                     |         | NUS-NM4E-USA     |    ❌    |    ✅     |
 | Mortal Kombat Mythologies - Sub-Zero (U) [!]                                |         | NUS-NMYE-MSA     |    ❌    |    ❌     |
 | Mortal Kombat Trilogy (U) (V1.0) [!]                                        | 1.0     | NUS-NMKE-USA     |    ❌    |    ✅     |
@@ -224,7 +228,7 @@
 | O.D.T (Or Die Trying) (U) (M3) (Unreleased Final)                           |         |                  |    ❌    |    ❌     |
 | Off Road Challenge (U) [!]                                                  |         |                  |    ❌    |    ❌     |
 | Ogre Battle 64 - Person of Lordly Caliber (U) [!]                           |         |                  |    ❌    |    ❌     |
-| Paper Mario (U) [!]                                                         |         |                  |    ❌    |    ❌     |
+| Paper Mario (U) [!]                                                         |         | NUS-NMQE-USA     |    ✅    |    ❌     |
 | Paperboy (U) [!]                                                            |         |                  |    ❌    |    ❌     |
 | Penny Racers (U) [!]                                                        |         |                  |    ❌    |    ❌     |
 | Perfect Dark (U) (V1.0) [!]                                                 | 1.0     |                  |    ❌    |    ❌     |
@@ -245,7 +249,7 @@
 | Quake 64 (U) [!]                                                            |         |                  |    ❌    |    ❌     |
 | Quake II (U) [!]                                                            |         |                  |    ❌    |    ❌     |
 | Quest 64 (U) [!]                                                            |         | NUS-NETE-USA     |    ❌    |    ❌     |
-| Rally Challenge 2000 (U) [!]                                                |         | NUS-NWQE-USA     |    ❌    |    ❌     |
+| Rally Challenge 2000 (U) [!]                                                |         | NUS-NWQE-USA     |    ✅    |    ❌     |
 | Rampage - World Tour (U) [!]                                                |         | NUS-NRPE-USA     |    ❌    |    ✅     |
 | Rampage 2 - Universal Tour (U) [!]                                          |         |                  |    ❌    |    ❌     |
 | Rat Attack (U) [!]                                                          |         | NUS-NRTE-USA     |    ❌    |    ❌     |
@@ -256,29 +260,29 @@
 | Resident Evil 2 (U) [!]                                                     |         |                  |    ❌    |    ❌     |
 | Re-Volt (U) [!]                                                             |         |                  |    ❌    |    ❌     |
 | Road Rash 64 (U) [!]                                                        |         | NUS-NROE-USA     |    ❌    |    ❌     |
-| Roadsters (U) [!]                                                           |         | NUS-NRRE-USA     |    ❌    |    ❌     |
+| Roadsters (U) [!]                                                           |         | NUS-NRRE-USA     |    ✅    |    ❌     |
 | Robotech - Crystal Dreams (U) (beta)                                        |         |                  |    ❌    |    ❌     |
-| Robotron 64 (U) [!]                                                         |         | NUS-NRXE-USA     |    ❌    |    ❌     |
+| Robotron 64 (U) [!]                                                         |         | NUS-NRXE-USA     |    ✅    |    ❌     |
 | Rocket - Robot on Wheels (U) [!]                                            |         | NUS-NSUE-USA     |    ❌    |    ❌     |
 | RR64 - Ridge Racer 64 (U) [!]                                               |         |                  |    ❌    |    ❌     |
 | Rugrats - Scavenger Hunt (U) [!]                                            |         | NUS-NRGE-USA     |    ❌    |    ✅     |
 | Rugrats in Paris - The Movie (U) [!]                                        |         | NUS-NRKE-USA     |    ❌    |    ✅     |
 | Rush 2 - Extreme Racing USA (U) [!]                                         |         | NUS-NR2E-USA     |    ❌    |    ❌     |
-| S.C.A.R.S. (U) [!]                                                          |         | NUS-NCSE-USA     |    ❌    |    ❌     |
+| S.C.A.R.S. (U) [!]                                                          |         | NUS-NCSE-USA     |    ✅    |    ❌     |
 | San Francisco Rush - Extreme Racing (U) [!]                                 |         | NUS-NSFE-USA     |    ❌    |    ❌     |
-| San Francisco Rush 2049 (U) [!]                                             |         | NUS-NRUE-USA     |    ❌    |    ❌     |
+| San Francisco Rush 2049 (U) [!]                                             |         | NUS-NRUE-USA     |    ✅    |    ❌     |
 | Scooby-Doo - Classic Creep Capers (U) [!]                                   |         | NUS-NSYE-USA     |    ❌    |    ❌     |
-| Shadow Man (U) [!]                                                          |         |                  |    ❌    |    ❌     |
+| Shadow Man (U) [!]                                                          |         | NUS-NSDE-USA     |    ✅    |    ❌     |
 | Shadowgate 64 - Trials of the Four Towers (U) [!]                           |         |                  |    ❌    |    ❌     |
-| Snowboard Kids (U) [!]                                                      |         |                  |    ❌    |    ❌     |
+| Snowboard Kids (U) [!]                                                      |         | NUS-NSKE-USA     |    ✅    |    ❌     |
 | Snowboard Kids 2 (U) [!]                                                    |         |                  |    ❌    |    ❌     |
-| South Park - Chef's Luv Shack (U) [!]                                       |         | NUS-NCYE-USA     |    ❌    |    ✅     |
+| South Park - Chef's Luv Shack (U) [!]                                       |         | NUS-NCYE-USA     |    ✅    |    ✅     |
 | South Park (U) [!]                                                          |         | NUS-NDTE-USA     |    ❌    |    ✅     |
 | South Park Rally (U) [!]                                                    |         | NUS-NPRE-USA     |    ❌    |    ✅     |
-| Space Invaders (U) [!]                                                      |         | NUS-NIVE-USA     |    ❌    |    ✅     |
-| Spacestation Silicon Valley (U) [!]                                         |         |                  |    ❌    |    ❌     |
+| Space Invaders (U) [!]                                                      |         | NUS-NIVE-USA     |    ✅    |    ✅     |
+| Spacestation Silicon Valley (U) [!]                                         |         | NUS-NSVE-USA     |    ✅    |    ❌     |
 | Spider-Man (U) [!]                                                          |         | NUS-NSLE-USA     |    ❌    |    ❌     |
-| Star Fox 64 (U) [!]                                                         |         | NUS-NFPE-USA     |    ❌    |    ✅     |
+| Star Fox 64 (U) [!]                                                         |         | NUS-NFPE-USA     |    ✅    |    ✅     |
 | Star Fox 64 (U) (V1.1)                                                      | 1.1     | NUS-NFXE-USA-1   |    ❌    |    ✅     |
 | Star Soldier Vanishing Earth (U) [!]                                        |         |                  |    ❌    |    ❌     |
 | Star Wars - Rogue Squadron (U) [!]                                          |         |                  |    ❌    |    ❌     |
@@ -287,16 +291,16 @@
 | Star Wars - Shadows of the Empire (U) (V1.2) [!]                            | 1.2     |                  |    ❌    |    ❌     |
 | Star Wars Episode I - Battle for Naboo (U) [!]                              |         | NUS-NNAE-USA     |    ❌    |    ❌     |
 | Star Wars Episode I - Racer (U) [!]                                         |         | NUS-NEPE-USA     |    ❌    |    ❌     |
-| StarCraft 64 (U) [!]                                                        |         | NUS-NSQE-USA     |    ❌    |    ✅     |
+| StarCraft 64 (U) [!]                                                        |         | NUS-NSQE-USA     |    ✅    |    ✅     |
 | Starshot - Space Circus Fever (U) [!]                                       |         |                  |    ❌    |    ❌     |
-| Stunt Racer 64 (U) [!]                                                      |         | NUS-NR3E-USA     |    ❌    |    ❌     |
+| Stunt Racer 64 (U) [!]                                                      |         | NUS-NR3E-USA     |    ✅    |    ❌     |
 | Super Bowling 64 (U) [!]                                                    |         |                  |    ❌    |    ❌     |
 | Super Mario 64 (U) [!]                                                      |         | NUS-NSME-USA     |    ❌    |    ✅     |
 | Super Mario 64 (U) (V1.1) [!]                                               | 1.1     | NUS-NSME-USA-1   |    ❌    |    ❌     |
 | Super Mario 64 (U) (V1.2) [!]                                               | 1.2     | NUS-NSME-USA-2   |    ❌    |    ✅     |
 | Super Smash Bros. (U) [!]                                                   |         | NUS-NALE-USA     |    ❌    |    ✅     |
-| Supercross 2000 (U) [!]                                                     |         | NUS-NSXE-USA     |    ❌    |    ❌     |
-| Superman (U) [!]                                                            |         | NUS-NSPE-USA     |    ❌    |    ❌     |
+| Supercross 2000 (U) [!]                                                     |         | NUS-NSXE-USA     |    ✅    |    ❌     |
+| Superman (U) [!]                                                            |         | NUS-NSPE-USA     |    ✅    |    ❌     |
 | Tetrisphere (U) [!]                                                         |         | NUS-NTPE-USA     |    ❌    |    ❌     |
 | Tigger's Honey Hunt (U) [!]                                                 |         | NUS-NT9E-USA     |    ❌    |    ❌     |
 | Tom and Jerry in Fists of Furry (U) [!]                                     |         |                  |    ❌    |    ❌     |
@@ -319,7 +323,7 @@
 | Turok 3 - Shadow of Oblivion (U) [!]                                        |         | NUS-NTKE-USA     |    ❌    |    ❌     |
 | Twisted Edge Extreme Snowboarding (U) [!]                                   |         | NUS-NSBE-USA     |    ❌    |    ❌     |
 | Vigilante 8 - 2nd Offense (U) [!]                                           |         |                  |    ❌    |    ❌     |
-| Vigilante 8 (U) [!]                                                         |         |                  |    ❌    |    ❌     |
+| Vigilante 8 (U) [!]                                                         |         | NUS-NV8E-USA     |    ✅    |    ❌     |
 | Virtual Chess 64 (U) [!]                                                    |         | NUS-NVCE-USA     |    ❌    |    ❌     |
 | Virtual Pool 64 (U) [!]                                                     |         | NUS-NVRE-USA     |    ❌    |    ❌     |
 | V-Rally Edition 99 (U) [!]                                                  |         |                  |    ❌    |    ❌     |
@@ -350,6 +354,8 @@
 | WWF WrestleMania 2000 (U) [!]                                               |         |                  |    ❌    |    ❌     |
 | Xena Warrior Princess - Talisman of Fate (U) [!]                            |         | NUS-NXFE-USA     |    ❌    |    ❌     |
 | Yoshi's Story (U) [!]                                                       |         | NUS-NYSE-USA     |    ❌    |    ✅     |
+
+
 
 
 
@@ -632,6 +638,8 @@
 
 
 
+
+
 ## <img src='https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/jp.svg' width='30'> Japan
 
 | Art Type  | Completed | Total | Completion Percentage |
@@ -865,6 +873,8 @@
 
 
 
+
+
 ## <img src='https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/de.svg' width='30'> Germany
 
 | Art Type  | Completed | Total | Completion Percentage |
@@ -909,6 +919,8 @@
 
 
 
+
+
 ## <img src='https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/fr.svg' width='30'> France
 
 | Art Type  | Completed | Total | Completion Percentage |
@@ -945,6 +957,8 @@
 
 
 
+
+
 ## <img src='https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/it.svg' width='30'> Italy
 
 | Art Type  | Completed | Total | Completion Percentage |
@@ -965,6 +979,8 @@
 
 
 
+
+
 ## <img src='https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/es.svg' width='30'> Spain
 
 | Art Type  | Completed | Total | Completion Percentage |
@@ -978,6 +994,8 @@
 | Pokemon Snap (S) [!]       |         |            |    ❌    |    ❌     |
 | Pokemon Stadium (S) [!]    |         |            |    ❌    |    ❌     |
 | Pokemon Stadium 2 (S) [!]  |         |            |    ❌    |    ❌     |
+
+
 
 
 

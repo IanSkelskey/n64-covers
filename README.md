@@ -29,7 +29,7 @@ A collection of N64 covers for use with emulators. This repository serves as a c
 
 Region | Label Art | Box Art
 -------|-----------|--------
-<img src='https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/us.svg' width='30'> USA | <img alt="20%" src="https://progress-bar.xyz/20"> | <img alt="0%" src="https://progress-bar.xyz/0">
+<img src='https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/us.svg' width='30'> USA | <img alt="20%" src="https://progress-bar.xyz/20"> | <img alt="19%" src="https://progress-bar.xyz/19">
 <img src='https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/eu.svg' width='30'> Europe | <img alt="2%" src="https://progress-bar.xyz/2"> | <img alt="0%" src="https://progress-bar.xyz/0">
 <img src='https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/jp.svg' width='30'> Japan | <img alt="1%" src="https://progress-bar.xyz/1"> | <img alt="0%" src="https://progress-bar.xyz/0">
 <img src='https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/de.svg' width='30'> Germany | <img alt="0%" src="https://progress-bar.xyz/0"> | <img alt="0%" src="https://progress-bar.xyz/0">
