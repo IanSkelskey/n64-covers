@@ -29,9 +29,9 @@ A collection of N64 covers for use with emulators. This repository serves as a c
 
 Region | Label Art | Box Art
 -------|-----------|--------
-<img src='https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/us.svg' width='30'> USA | <img alt="20%" src="https://progress-bar.xyz/20"> | <img alt="31%" src="https://progress-bar.xyz/31">
+<img src='https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/us.svg' width='30'> USA | <img alt="26%" src="https://progress-bar.xyz/26"> | <img alt="31%" src="https://progress-bar.xyz/31">
 <img src='https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/eu.svg' width='30'> Europe | <img alt="3%" src="https://progress-bar.xyz/3"> | <img alt="0%" src="https://progress-bar.xyz/0">
-<img src='https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/jp.svg' width='30'> Japan | <img alt="1%" src="https://progress-bar.xyz/1"> | <img alt="0%" src="https://progress-bar.xyz/0">
+<img src='https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/jp.svg' width='30'> Japan | <img alt="5%" src="https://progress-bar.xyz/5"> | <img alt="0%" src="https://progress-bar.xyz/0">
 <img src='https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/de.svg' width='30'> Germany | <img alt="0%" src="https://progress-bar.xyz/0"> | <img alt="0%" src="https://progress-bar.xyz/0">
 <img src='https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/fr.svg' width='30'> France | <img alt="4%" src="https://progress-bar.xyz/4"> | <img alt="0%" src="https://progress-bar.xyz/0">
 <img src='https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/it.svg' width='30'> Italy | <img alt="0%" src="https://progress-bar.xyz/0"> | <img alt="0%" src="https://progress-bar.xyz/0">

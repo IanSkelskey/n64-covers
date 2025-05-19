@@ -10,11 +10,15 @@
 
 
 
+
+
+
+
 ## <img src='https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/us.svg' width='30'> USA
 
 | Art Type  | Completed | Total | Completion Percentage |
 | --------- | --------- | ----- | --------------------- |
-| Label Art | 71        | 340   | <img alt="20%" src="https://progress-bar.xyz/20"> |
+| Label Art | 90        | 340   | <img alt="26%" src="https://progress-bar.xyz/26"> |
 | Box Art   | 108         | 340   | <img alt="31%" src="https://progress-bar.xyz/31">   |
 
 | Title                                                                       | Version | Product ID       | Box Art | Label Art |
@@ -23,34 +27,34 @@
 | A Bug's Life (U) [!]                                                        |         | NUS-NBYE-USA     |    ✅    |    ✅     |
 | Aerofighter's Assault (U) [!]                                               |         | NUS-NERE-USA     |    ✅    |    ✅     |
 | AeroGauge (U) [!]                                                           |         | NUS-NAGE-USA     |    ✅    |    ✅     |
-| Aidyn Chronicles - The First Mage (U) [!] (V1.0)                            | 1.0     | NUS-NAYE-USA     |    ✅    |    ❌     |
+| Aidyn Chronicles - The First Mage (U) [!] (V1.0)                            | 1.0     | NUS-NAYE-USA     |    ✅    |    ✅     |
 | Aidyn Chronicles - The First Mage (U) [!] (V1.1)                            | 1.1     |                  |    ❌    |    ❌     |
-| All Star Tennis '99 (U) [!]                                                 |         | NUS-NTNE-USA     |    ❌    |    ❌     |
-| All-Star Baseball 2000 (U) [!]                                              |         | NUS-NBEE-USA     |    ❌    |    ❌     |
-| All-Star Baseball 2001 (U) [!]                                              |         | NUS-NASE-USA     |    ❌    |    ❌     |
+| All Star Tennis '99 (U) [!]                                                 |         | NUS-NTNE-USA     |    ❌    |    ✅     |
+| All-Star Baseball 2000 (U) [!]                                              |         | NUS-NBEE-USA     |    ❌    |    ✅     |
+| All-Star Baseball 2001 (U) [!]                                              |         | NUS-NASE-USA     |    ❌    |    ✅     |
 | All-Star Baseball 99 (U) [!]                                                |         | NUS-NBSE-USA     |    ❌    |    ✅     |
-| Armorines - Project S.W.A.R.M. (U) [!]                                      |         | NUS-NARE-USA     |    ❌    |    ❌     |
-| Army Men - Air Combat (U) [!]                                               |         | NUS-NACE-USA     |    ❌    |    ❌     |
-| Army Men - Sarge's Heroes (U) [!]                                           |         | NUS-NAME-USA     |    ❌    |    ❌     |
-| Army Men - Sarge's Heroes 2 (U) [!]                                         |         | NUS-N32E-USA     |    ❌    |    ❌     |
-| Asteroids Hyper 64 (U) [!]                                                  |         | NUS-NAHE-USA     |    ❌    |    ❌     |
-| Automobili Lamborghini (U) [!]                                              |         | NUS-NLCE-USA     |    ❌    |    ❌     |
+| Armorines - Project S.W.A.R.M. (U) [!]                                      |         | NUS-NARE-USA     |    ❌    |    ✅     |
+| Army Men - Air Combat (U) [!]                                               |         | NUS-NACE-USA     |    ❌    |    ✅     |
+| Army Men - Sarge's Heroes (U) [!]                                           |         | NUS-NAME-USA     |    ❌    |    ✅     |
+| Army Men - Sarge's Heroes 2 (U) [!]                                         |         | NUS-N32E-USA     |    ❌    |    ✅     |
+| Asteroids Hyper 64 (U) [!]                                                  |         | NUS-NAHE-USA     |    ❌    |    ✅     |
+| Automobili Lamborghini (U) [!]                                              |         | NUS-NLCE-USA     |    ❌    |    ✅     |
 | Banjo-Kazooie (U) [!]                                                       |         | NUS-NBKE-USA     |    ❌    |    ✅     |
 | Banjo-Kazooie (U) (V1.1) [!]                                                | 1.1     | NUS-NBKE-USA-1   |    ❌    |    ✅     |
 | Banjo-Tooie (U) [!]                                                         |         | NUS-NB7E-USA     |    ❌    |    ✅     |
-| Bassmasters 2000 (U) [!]                                                    |         | NUS-NB4E-USA     |    ❌    |    ❌     |
-| Batman Beyond - Return of the Joker (U) [!]                                 |         | NUS-NJQE-USA     |    ❌    |    ❌     |
+| Bassmasters 2000 (U) [!]                                                    |         | NUS-NB4E-USA     |    ❌    |    ✅     |
+| Batman Beyond - Return of the Joker (U) [!]                                 |         | NUS-NJQE-USA     |    ❌    |    ✅     |
 | BattleTanx - Global Assault (U) [!]                                         |         | NUS-NBAE-USA     |    ✅    |    ❌     |
-| BattleTanx (U) [!]                                                          |         | NUS-NBXE-USA     |    ❌    |    ❌     |
-| Battlezone - Rise of the Black Dogs (U) [!]                                 |         | NUS-NZOE-USA     |    ✅    |    ❌     |
+| BattleTanx (U) [!]                                                          |         | NUS-NBXE-USA     |    ❌    |    ✅     |
+| Battlezone - Rise of the Black Dogs (U) [!]                                 |         | NUS-NZOE-USA     |    ✅    |    ✅     |
 | Beast Wars Transmetal (U) [!]                                               |         |                  |    ❌    |    ❌     |
-| Beetle Adventure Racing! (U) [!]                                            |         | NUS-NNSE-USA     |    ✅    |    ❌     |
-| Big Mountain 2000 (U) [!]                                                   |         | NUS-NMUE-USA     |    ✅    |    ❌     |
+| Beetle Adventure Racing! (U) [!]                                            |         | NUS-NNSE-USA     |    ✅    |    ✅     |
+| Big Mountain 2000 (U) [!]                                                   |         | NUS-NMUE-USA     |    ✅    |    ✅     |
 | Bio F.R.E.A.K.S. (U) [!]                                                    |         | NUS-NBFE-USA     |    ✅    |    ✅     |
 | Blast Corps (U) (V1.0) [!]                                                  | 1.0     | NUS-NBCE-USA     |    ✅    |    ✅     |
 | Blast Corps (U) (V1.1) [!]                                                  | 1.1     | NUS-NBCE-USA     |    ✅    |    ✅     |
-| Blues Brothers 2000 (U) [!]                                                 |         | NUS-NBPE-USA     |    ✅    |    ❌     |
-| Body Harvest (U) [!]                                                        |         | NUS-NBHE-USA     |    ✅    |    ❌     |
+| Blues Brothers 2000 (U) [!]                                                 |         | NUS-NBPE-USA     |    ✅    |    ✅     |
+| Body Harvest (U) [!]                                                        |         | NUS-NBHE-USA     |    ✅    |    ✅     |
 | Bomberman 64 - The Second Attack! (U) [!]                                   |         | NUS-NOBE-USA     |    ✅    |    ❌     |
 | Bomberman 64 (U) [!]                                                        |         | NUS-NBME-USA     |    ❌    |    ✅     |
 | Bomberman Hero (U) [!]                                                      |         | NUS-NBDE-USA     |    ✅    |    ✅     |
@@ -217,7 +221,7 @@
 | NBA Showtime - NBA on NBC (U) [!]                                           |         | NUS-NSOE-USA     |    ❌    |    ❌     |
 | New Tetris, The (U) [!]                                                     |         |                  |    ❌    |    ❌     |
 | NFL Blitz - Special Edition (U) [!]                                         |         | NUS-NSZE-USA     |    ❌    |    ❌     |
-| NFL Blitz (U) [!]                                                           |         | NUS-NBZE-USA     |    ❌    |    ❌     |
+| NFL Blitz (U) [!]                                                           |         | NUS-NBZE-USA     |    ❌    |    ✅     |
 | NFL Blitz 2000 (U) [!]                                                      |         | NUS-NBIE-USA     |    ❌    |    ❌     |
 | NFL Blitz 2001 (U) [!]                                                      |         | NUS-NFBE-USA     |    ❌    |    ❌     |
 | NFL Quarterback Club 2000 (U) [!]                                           |         |                  |    ❌    |    ❌     |
@@ -369,11 +373,13 @@
 
 
 
+
+
 ## <img src='https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/eu.svg' width='30'> Europe
 
 | Art Type  | Completed | Total | Completion Percentage |
 | --------- | --------- | ----- | --------------------- |
-| Label Art | 8        | 261   | <img alt="3%" src="https://progress-bar.xyz/3"> |
+| Label Art | 10        | 261   | <img alt="3%" src="https://progress-bar.xyz/3"> |
 | Box Art   | 0         | 261   | <img alt="0%" src="https://progress-bar.xyz/0">   |
 
 | Title                                                                       | Version | Product ID     | Box Art | Label Art |
@@ -386,9 +392,9 @@
 | Aidyn Chronicles - The First Mage (E) [!]                                   |         | NUS-NAYP-EUR   |    ❌    |    ❌     |
 | Airboarder 64 (E) [!]                                                       |         | NUS-NABP-AUS   |    ❌    |    ❌     |
 | All Star Tennis '99 (E) [!]                                                 |         | NUS-NTNP-EUR   |    ❌    |    ❌     |
-| All-Star Baseball 2000 (E) [!]                                              |         | NUS-NBEP-EUR   |    ❌    |    ❌     |
+| All-Star Baseball 2000 (E) [!]                                              |         | NUS-NBEP-EUR   |    ❌    |    ✅     |
 | All-Star Baseball 99 (E) [!]                                                |         | NUS-NBSP-EUR   |    ❌    |    ❌     |
-| Armorines - Project S.W.A.R.M. (E) [!]                                      |         | NUS-NARP-EUR   |    ❌    |    ❌     |
+| Armorines - Project S.W.A.R.M. (E) [!]                                      |         | NUS-NARP-EUR   |    ❌    |    ✅     |
 | Army Men - Sarge's Heroes (E) [!]                                           |         | NUS-NAMP-EUR   |    ❌    |    ❌     |
 | Automobili Lamborghini (E) [!]                                              |         | NUS-NLCP-EUR   |    ❌    |    ❌     |
 | Banjo-Kazooie (E) [!]                                                       |         | NUS-NBKP-EUR   |    ❌    |    ✅     |
@@ -649,38 +655,40 @@
 
 
 
+
+
 ## <img src='https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/jp.svg' width='30'> Japan
 
 | Art Type  | Completed | Total | Completion Percentage |
 | --------- | --------- | ----- | --------------------- |
-| Label Art | 4        | 218   | <img alt="1%" src="https://progress-bar.xyz/1"> |
+| Label Art | 11        | 218   | <img alt="5%" src="https://progress-bar.xyz/5"> |
 | Box Art   | 0         | 218   | <img alt="0%" src="https://progress-bar.xyz/0">   |
 
 | Title                                                                           | Version | Product ID   | Box Art | Label Art |
 | ------------------------------------------------------------------------------- | ------- | ------------ | :-----: | :-------: |
-| 64 de Hakken!! Tamagotchi Minna de Tamagotchi World (J)                         |         | NUS-NTWJ-JPN |    ❌    |    ❌     |
-| 64 Oozumou (J)                                                                  |         | NUS-NOSJ-JPN |    ❌    |    ❌     |
+| 64 de Hakken!! Tamagotchi Minna de Tamagotchi World (J)                         |         | NUS-NTWJ-JPN |    ❌    |    ✅     |
+| 64 Oozumou (J)                                                                  |         | NUS-NOSJ-JPN |    ❌    |    ✅     |
 | 64 Oozumou 2 (J)                                                                |         | NUS-NO2J-JPN |    ❌    |    ❌     |
 | 64 Trump Collection - Alice no Wakuwaku Trump World (J) [!]                     |         | NUS-NTCJ-JPN |    ❌    |    ❌     |
 | AeroGauge - Kiosk (J) (V1.0)                                                    | 1.0     |              |    ❌    |    ❌     |
-| AeroGauge (J) (V1.1) [!]                                                        | 1.1     | NUS-NAGJ-JPN |    ❌    |    ❌     |
+| AeroGauge (J) (V1.1) [!]                                                        | 1.1     | NUS-NAGJ-JPN |    ❌    |    ✅     |
 | AI Shogi 3 (J) [!]                                                              |         | NUS-NS3J-JPN |    ❌    |    ❌     |
 | Airboarder 64 (J) [!]                                                           |         | NUS-NABJ-JPN |    ❌    |    ✅     |
 | Akumajou Dracula Mokushiroku - Real Action Adventure (J) [!]                    |         | NUS-ND3J-JPN |    ❌    |    ❌     |
 | Akumajou Dracula Mokushiroku Gaiden-Legend of Cornell (J) [!]                   |         | NUS-ND4J-JPN |    ❌    |    ❌     |
 | All Star! Dairantou Smash Brothers (J) [!]                                      |         | NUS-NALJ-JPN |    ❌    |    ❌     |
-| Baku Bomberman (J) [!]                                                          |         | NUS-NBMJ-JPN |    ❌    |    ❌     |
+| Baku Bomberman (J) [!]                                                          |         | NUS-NBMJ-JPN |    ❌    |    ✅     |
 | Baku Bomberman 2 (J) [!]                                                        |         | NUS-NBVJ-JPN |    ❌    |    ❌     |
 | Bakuretsu Muteki Bangaioh (J) [!]                                               |         | NUS-NBNJ-JPN |    ❌    |    ❌     |
 | Bakushou Jinsei 64 - Mezase! Resort Ou (J) [!]                                  |         | NUS-NBJJ-JPN |    ❌    |    ❌     |
-| Banjo to Kazooie no Dai Bouken (J) [!]                                          |         | NUS-NBKJ-JPN |    ❌    |    ❌     |
+| Banjo to Kazooie no Dai Bouken (J) [!]                                          |         | NUS-NBKJ-JPN |    ❌    |    ✅     |
 | Banjo to Kazooie no Dai Bouken 2 (J) [!]                                        |         | NUS-NB7J-JPN |    ❌    |    ❌     |
 | Bass Rush - Ecogear Powerworm Championship (J)                                  |         | NUS-NVBJ-JPN |    ❌    |    ❌     |
 | Bass Tsuri No. 1 - Shigesato Itoi's Bass Fishing (J) [!]                        |         | NUS-NIBJ-JPN |    ❌    |    ❌     |
 | Beast Wars Metals (J) [!]                                                       |         |              |    ❌    |    ❌     |
 | Beetle Adventure Racing! (J) [!]                                                |         | NUS-NB8J-JPN |    ❌    |    ❌     |
 | Bio Hazard 2 (J) [!]                                                            |         | NUS-NB5J-JPN |    ❌    |    ❌     |
-| Blast Dozer (J) [!]                                                             |         | NUS-NBCJ-JPN |    ❌    |    ❌     |
+| Blast Dozer (J) [!]                                                             |         | NUS-NBCJ-JPN |    ❌    |    ✅     |
 | Bokujo Monogatari 2 (J) (V1.0) [!]                                              | 1.0     |              |    ❌    |    ❌     |
 | Bokujo Monogatari 2 (J) (V1.1)                                                  | 1.1     |              |    ❌    |    ❌     |
 | Bokujo Monogatari 2 (J) (V1.2)                                                  | 1.2     |              |    ❌    |    ❌     |
@@ -701,7 +709,7 @@
 | Dance Dance Revolution - Disney Dancing Museum (J) [!]                          |         |              |    ❌    |    ❌     |
 | Densha de GO! 64 (J) [!]                                                        |         | NUS-ND6J-JPN |    ❌    |    ❌     |
 | Derby Stallion (J) [!]                                                          |         |              |    ❌    |    ❌     |
-| Dezaemon 3D (J) [!]                                                             |         | NUS-CDZJ-JPN |    ❌    |    ❌     |
+| Dezaemon 3D (J) [!]                                                             |         | NUS-CDZJ-JPN |    ❌    |    ✅     |
 | Diddy Kong Racing (J) [!]                                                       |         | NUS-NDYJ-JPN |    ❌    |    ❌     |
 | Dobutsu no Mori (J) [!]                                                         |         |              |    ❌    |    ❌     |
 | Donkey Kong 64 (J) [!]                                                          |         | NUS-NDOJ-JPN |    ❌    |    ❌     |
@@ -886,6 +894,8 @@
 
 
 
+
+
 ## <img src='https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/de.svg' width='30'> Germany
 
 | Art Type  | Completed | Total | Completion Percentage |
@@ -924,6 +934,8 @@
 | Turok 2 - Seeds of Evil (G) [!]                            |         |            |    ❌    |    ❌     |
 | Vigilante 8 (G) [!]                                        |         |            |    ❌    |    ❌     |
 | WWF Attitude (G) [!]                                       |         |            |    ❌    |    ❌     |
+
+
 
 
 
@@ -974,6 +986,8 @@
 
 
 
+
+
 ## <img src='https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/it.svg' width='30'> Italy
 
 | Art Type  | Completed | Total | Completion Percentage |
@@ -998,6 +1012,8 @@
 
 
 
+
+
 ## <img src='https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/es.svg' width='30'> Spain
 
 | Art Type  | Completed | Total | Completion Percentage |
@@ -1011,6 +1027,8 @@
 | Pokemon Snap (S) [!]       |         |            |    ❌    |    ❌     |
 | Pokemon Stadium (S) [!]    |         |            |    ❌    |    ❌     |
 | Pokemon Stadium 2 (S) [!]  |         |            |    ❌    |    ❌     |
+
+
 
 
 
