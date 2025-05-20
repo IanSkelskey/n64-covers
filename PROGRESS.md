@@ -2,23 +2,11 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 ## <img src='https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/us.svg' width='30'> USA
 
 | Art Type  | Completed | Total | Completion Percentage |
 | --------- | --------- | ----- | --------------------- |
-| Label Art | 90        | 340   | <img alt="26%" src="https://progress-bar.xyz/26"> |
+| Label Art | 97        | 340   | <img alt="28%" src="https://progress-bar.xyz/28"> |
 | Box Art   | 108         | 340   | <img alt="31%" src="https://progress-bar.xyz/31">   |
 
 | Title                                                                       | Version | Product ID       | Box Art | Label Art |
@@ -58,20 +46,20 @@
 | Bomberman 64 - The Second Attack! (U) [!]                                   |         | NUS-NOBE-USA     |    ✅    |    ❌     |
 | Bomberman 64 (U) [!]                                                        |         | NUS-NBME-USA     |    ❌    |    ✅     |
 | Bomberman Hero (U) [!]                                                      |         | NUS-NBDE-USA     |    ✅    |    ✅     |
-| Bottom of the 9th (U) [!]                                                   |         | NUS-NBOE-USA     |    ✅    |    ❌     |
-| Brunswick Circuit Pro Bowling (U) [!]                                       |         | NUS-NOWE-USA     |    ✅    |    ❌     |
-| Buck Bumble (U) [!]                                                         |         | NUS-NBLE-USA     |    ✅    |    ❌     |
+| Bottom of the 9th (U) [!]                                                   |         | NUS-NBOE-USA     |    ✅    |    ✅     |
+| Brunswick Circuit Pro Bowling (U) [!]                                       |         | NUS-NOWE-USA     |    ✅    |    ✅     |
+| Buck Bumble (U) [!]                                                         |         | NUS-NBLE-USA     |    ✅    |    ✅     |
 | Bust-A-Move 2 - Arcade Edition (U) [!]                                      |         |                  |    ❌    |    ❌     |
-| Bust-A-Move '99 (U) [!]                                                     |         | NUS-NB3E-USA     |    ✅    |    ❌     |
-| California Speed (U) [!]                                                    |         | NUS-NCLE-USA     |    ✅    |    ❌     |
-| Carmageddon 64 (U) [!]                                                      |         | NUS-NCDE-USA     |    ✅    |    ❌     |
+| Bust-A-Move '99 (U) [!]                                                     |         | NUS-NB3E-USA     |    ✅    |    ✅     |
+| California Speed (U) [!]                                                    |         | NUS-NCLE-USA     |    ✅    |    ✅     |
+| Carmageddon 64 (U) [!]                                                      |         | NUS-NCDE-USA     |    ✅    |    ✅     |
 | Castlevania - Legacy of Darkness (U) [!]                                    |         |                  |    ❌    |    ❌     |
 | Castlevania (U) (V1.0) [!]                                                  | 1.0     | NUS-ND3E-USA     |    ✅    |    ❌     |
 | Castlevania (U) (V1.2) [!]                                                  | 1.2     | NUS-ND3E-ASM     |    ❌    |    ❌     |
 | Chameleon Twist (U) [!]                                                     |         | NUS-NCTE-USA     |    ✅    |    ❌     |
 | Chameleon Twist 2 (U) [!]                                                   |         |                  |    ❌    |    ❌     |
 | Charlie Blast's Territory (U) [!]                                           |         | NUS-NCBE-USA     |    ✅    |    ❌     |
-| Chopper Attack (U) [!]                                                      |         | NUS-NCHE-USA     |    ✅    |    ❌     |
+| Chopper Attack (U) [!]                                                      |         | NUS-NCHE-USA     |    ✅    |    ✅     |
 | Clay Fighter - Sculptor's Cut (U) [!]                                       |         | NUS-NC2E-USA     |    ✅    |    ❌     |
 | Clay Fighter 63 1-3 (U) (beta)                                              |         |                  |    ❌    |    ❌     |
 | Clay Fighter 63 1-3 (U) [!]                                                 |         |                  |    ❌    |    ❌     |
@@ -365,27 +353,17 @@
 | Yoshi's Story (U) [!]                                                       |         | NUS-NYSE-USA     |    ✅    |    ✅     |
 
 
-
-
-
-
-
-
-
-
-
-
 ## <img src='https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/eu.svg' width='30'> Europe
 
 | Art Type  | Completed | Total | Completion Percentage |
 | --------- | --------- | ----- | --------------------- |
-| Label Art | 10        | 261   | <img alt="3%" src="https://progress-bar.xyz/3"> |
+| Label Art | 11        | 261   | <img alt="4%" src="https://progress-bar.xyz/4"> |
 | Box Art   | 0         | 261   | <img alt="0%" src="https://progress-bar.xyz/0">   |
 
 | Title                                                                       | Version | Product ID     | Box Art | Label Art |
 | --------------------------------------------------------------------------- | ------- | -------------- | :-----: | :-------: |
 | 007 - The World is Not Enough (E) (M3)                                      |         | NUS-NO7P-UKV   |    ❌    |    ✅     |
-| 1080 Snowboarding (E) [!]                                                   |         | NUS-NTEP-EUR   |    ❌    |    ❌     |
+| 1080 Snowboarding (E) [!]                                                   |         | NUS-NTEP-EUR   |    ❌    |    ✅     |
 | 40 Winks (E) (M3) (Beta)                                                    |         |                |    ❌    |    ❌     |
 | A Bug's Life (E) [!]                                                        |         | NUS-NBYP       |    ❌    |    ❌     |
 | Aerofighter's Assault (E) [!]                                               |         | NUS-NSAP       |    ❌    |    ❌     |
@@ -647,21 +625,11 @@
 | Yoshi's Story (E) [!]                                                       |         | NUS-NYSP-EUR   |    ❌    |    ❌     |
 
 
-
-
-
-
-
-
-
-
-
-
 ## <img src='https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/jp.svg' width='30'> Japan
 
 | Art Type  | Completed | Total | Completion Percentage |
 | --------- | --------- | ----- | --------------------- |
-| Label Art | 11        | 218   | <img alt="5%" src="https://progress-bar.xyz/5"> |
+| Label Art | 16        | 218   | <img alt="7%" src="https://progress-bar.xyz/7"> |
 | Box Art   | 0         | 218   | <img alt="0%" src="https://progress-bar.xyz/0">   |
 
 | Title                                                                           | Version | Product ID   | Box Art | Label Art |
@@ -780,8 +748,8 @@
 | Mahjong Hourouki Classic (J) [!]                                                |         | NUS-NMHJ-JPN |    ❌    |    ❌     |
 | Mahjong Master (J) [!]                                                          |         | NUS-NMMJ-JPN |    ❌    |    ❌     |
 | Mario Golf 64 (J) [!]                                                           |         | NUS-NMFJ-JPN |    ❌    |    ❌     |
-| Mario Kart 64 (J) (V1.0) [!]                                                    | 1.0     | NUS-NKTJ-JPN |    ❌    |    ❌     |
-| Mario Kart 64 (J) (V1.1) [!]                                                    | 1.1     | NUS-NKTJ-JPN |    ❌    |    ❌     |
+| Mario Kart 64 (J) (V1.0) [!]                                                    | 1.0     | NUS-NKTJ-JPN |    ❌    |    ✅     |
+| Mario Kart 64 (J) (V1.1) [!]                                                    | 1.1     | NUS-NKTJ-JPN |    ❌    |    ✅     |
 | Mario no Photopie (J) [!]                                                       |         | NUS-NMPJ-JPN |    ❌    |    ❌     |
 | Mario Party (J) [!]                                                             |         | NUS-NLBJ-JPN |    ❌    |    ❌     |
 | Mario Party 2 (J) [!]                                                           |         | NUS-NMWJ-JPN |    ❌    |    ❌     |
@@ -843,7 +811,7 @@
 | Star Wars Episode I - Racer (J) [!]                                             |         |              |    ❌    |    ❌     |
 | Super B-Daman - Battle Phoenix 64 (J) [!]                                       |         | NUS-NB6J-JPN |    ❌    |    ❌     |
 | Super Bowling (J) [!]                                                           |         | NUS-NBWJ-JPN |    ❌    |    ❌     |
-| Super Mario 64 (J) [!]                                                          |         | NUS-NSMJ-JPN |    ❌    |    ❌     |
+| Super Mario 64 (J) [!]                                                          |         | NUS-NSMJ-JPN |    ❌    |    ✅     |
 | Super Mario 64 Shindou Edition (J) [!]                                          |         |              |    ❌    |    ❌     |
 | Super Robot Spirits (J) [!]                                                     |         | NUS-NSSJ-JPN |    ❌    |    ❌     |
 | Super Robot Taisen 64 (J) [!]                                                   |         | NUS-NS4J-JPN |    ❌    |    ❌     |
@@ -880,20 +848,10 @@
 | Zelda no Densetsu - Toki no Ocarina - Zelda Collection Version (J) (GC Version) |         |              |    ❌    |    ❌     |
 | Zelda no Densetsu - Toki no Ocarina GC Ura (J) (GC Version)                     |         |              |    ❌    |    ❌     |
 | Zelda no Densetsu - Toki no Ocarina GC (J) (GC Version)                         |         |              |    ❌    |    ❌     |
-| Zelda no Densetsu - Mujura no Kamen (J) (V1.0)                                  | 1.0     | NUS-NZSJ-JPN |    ❌    |    ❌     |
-| Zelda no Densetsu - Mujura no Kamen (J) (V1.1)                                  | 1.1     | NUS-NZSJ-JPN |    ❌    |    ❌     |
+| Zelda no Densetsu - Mujura no Kamen (J) (V1.0)                                  | 1.0     | NUS-NZSJ-JPN |    ❌    |    ✅     |
+| Zelda no Densetsu - Mujura no Kamen (J) (V1.1)                                  | 1.1     | NUS-NZSJ-JPN |    ❌    |    ✅     |
 | Zelda no Densetsu - Mujura no Kamen - Zelda Collection Version (J) (GC Version) |         |              |    ❌    |    ❌     |
 | Zool - Majou Tsukai Densetsu (J) [!]                                            |         |              |    ❌    |    ❌     |
-
-
-
-
-
-
-
-
-
-
 
 
 ## <img src='https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/de.svg' width='30'> Germany
@@ -946,6 +904,9 @@
 
 
 
+
+
+
 ## <img src='https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/fr.svg' width='30'> France
 
 | Art Type  | Completed | Total | Completion Percentage |
@@ -978,16 +939,6 @@
 | Vigilante 8 (F) [!]                                       |         |              |    ❌    |    ❌     |
 
 
-
-
-
-
-
-
-
-
-
-
 ## <img src='https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/it.svg' width='30'> Italy
 
 | Art Type  | Completed | Total | Completion Percentage |
@@ -1004,16 +955,6 @@
 | Pokemon Stadium 2 (I)      |         |            |    ❌    |    ❌     |
 
 
-
-
-
-
-
-
-
-
-
-
 ## <img src='https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/es.svg' width='30'> Spain
 
 | Art Type  | Completed | Total | Completion Percentage |
@@ -1027,16 +968,6 @@
 | Pokemon Snap (S) [!]       |         |            |    ❌    |    ❌     |
 | Pokemon Stadium (S) [!]    |         |            |    ❌    |    ❌     |
 | Pokemon Stadium 2 (S) [!]  |         |            |    ❌    |    ❌     |
-
-
-
-
-
-
-
-
-
-
 
 
 ## <img src='https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/au.svg' width='30'> Australia
